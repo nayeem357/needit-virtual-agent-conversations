@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <code/>
+        <commented_message/>
+        <key>what would you like to update?</key>
+        <language>en</language>
+        <message>What would you like to update?</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-27 20:45:39</sys_created_on>
+        <sys_id>f58c795a973d2110776cf5d3f153af38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>what would you like to update?</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_832577_needit_vi">2881738297352110776cf5d3f153afda</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">2881738297352110776cf5d3f153afda</sys_scope>
+        <sys_update_name>sys_ui_message_f58c795a973d2110776cf5d3f153af38</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-27 20:45:39</sys_updated_on>
+    </sys_ui_message>
+</record_update>

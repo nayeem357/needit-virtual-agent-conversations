@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <code/>
+        <commented_message/>
+        <key>enter new short description for this needit</key>
+        <language>en</language>
+        <message>Enter new Short Description for this NeedIt</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-27 20:29:49</sys_created_on>
+        <sys_id>f5e8b596973d2110776cf5d3f153afcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enter new short description for this needit</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_832577_needit_vi">2881738297352110776cf5d3f153afda</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">2881738297352110776cf5d3f153afda</sys_scope>
+        <sys_update_name>sys_ui_message_f5e8b596973d2110776cf5d3f153afcf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-27 20:29:49</sys_updated_on>
+    </sys_ui_message>
+</record_update>
